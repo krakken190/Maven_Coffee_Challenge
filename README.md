@@ -10,3 +10,4 @@ To identify key customer segments, tailor products to meet preferences, and set 
 
 # 4.Insight Discovery and Presentation:
 Utilized data analysis techniques to uncover patterns in customer demographics, preferences, and spending habits. Presented insights through visualizations and summaries to facilitate decision-making for the coffee shop venture.
+![Uploading maven_Coffee_merge.png…]()
