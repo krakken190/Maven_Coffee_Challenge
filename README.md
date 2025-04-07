@@ -1,3 +1,6 @@
+
+![Maven Coffee Challenge](https://github.com/user-attachments/assets/bf7668fd-9c52-480f-bffb-eba4338a9932)
+
 # **Maven_Coffee_Challenge**
 # 1.Project Description: 
 Analyzing customer demographics, coffee preferences, and pricing data to develop a strategic plan for launching a new coffee shop.
